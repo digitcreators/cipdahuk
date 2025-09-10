@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /register
+Disallow: /login
+Disallow: /password/reset
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: GPTbot
+Allow: /
+
+Sitemap: https://cipdassignmenthelpuk.co.uk/sitemap.xml
